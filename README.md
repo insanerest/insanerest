@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **What I'm Working On**
-- 🌐 **RoProxy Python** → A custom-built software proxy for Roblox API access with python.  
+- 🌐 **RoProxy-Python** → A custom-built software proxy for Roblox API access with python.  
 
 ---
 
@@ -20,6 +20,9 @@
 
 --
 ## 📊 GitHub Stats  
+![Profile Views](https://komarev.com/ghpvc/?username=insanerest&color=blueviolet&style=flat-square)
+
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical)
 
@@ -30,3 +33,5 @@
 📌 **[RoProxy-Javascript](https://github.com/insanerest/RoProxy-API-Javascript)** → Proxy for accessing Roblox APIs with Javascript.  
 
 Check out all my repos [**here**](https://github.com/insanerest?tab=repositories)!  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Full-Stack+Developer;Node.js+%7C+Python+%7C+PostgreSQL;Building+Awesome+Projects!;Loves+Backend+Development)
