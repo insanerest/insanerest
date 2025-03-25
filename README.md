@@ -24,4 +24,4 @@
 
 📌 **[RoProxy-Javascript](https://github.com/insanerest/RoProxy-API-Javascript)** → Proxy for accessing Roblox APIs with Javascript.  
 
-Check out all my repos [**here**](https://github.com/yourusername?tab=repositories)!  
+Check out all my repos [**here**](https://github.com/insanerest?tab=repositories)!  
