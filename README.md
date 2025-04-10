@@ -35,3 +35,10 @@
 Check out all my repos [**here**](https://github.com/insanerest?tab=repositories)! 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A41D&width=435&lines=Full-Stack+Developer;Node.js+%7C+Python+%7C+PostgreSQL;Building+Awesome+Projects!;Loves+Backend+Development)
+
+---
+
+## 💻 **My Blog**
+I Post Every Monday on my Blog
+
+[**Official-Blog**](https://insanerest.github.io/Official-Blog/)
