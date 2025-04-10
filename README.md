@@ -24,7 +24,9 @@
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical&cache_bust=20250410)
+
+
 
 ---
 
