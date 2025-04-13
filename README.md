@@ -18,7 +18,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
---
+---
+
 ## 📊 GitHub Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=insanerest&color=blueviolet&style=flat-square)
 
