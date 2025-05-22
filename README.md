@@ -8,35 +8,35 @@
 ---
 
 ## 🚀 **What I'm Working On**
-- 🌐 **LiteRoute** → A lightweight static site generator that builds hash-based single-page apps using JSON-defined routes and templates. Ideal for GitHub Pages and serverless deployments.
+- 🌐 **LiteRoute** → LiteRoute supports both static and dynamic routing using hash-based URLs, dynamic parameter extraction, and template injection — all in a client-side, no-server-required architecture.
 
 ---
 
 ## 🛠 **Tech Stack**
-<!-- Row 1 -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-<!-- Row 2 -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+   <h3>Frontend:</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=light&perline=10" />
+  <h3>Backend:</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,postgres&theme=light&perline=10" />
+  <h3>Tools:</h3>
+  <img src="https://skillicons.dev/icons?i=apple,vscode,github,postman,npm&theme=light&perline=10" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=radical" width="50%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical&cache_bust=20250410" width="50%" />
-</p>
+<table align="center">
+<tr>
+  <td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/>
+  </td>
+  <td>
+<a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=insanerest&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Insanerst's GitHub Readme Streak Stats" /> </a>
+  </td>
+<tr>
+</table>
+
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting!-purple?style=flat-square)
+![Thanks for visiting](https://img.shields.io/badge/Thanks_for_visiting!-f97316?style=for-the-badge&logo=github)
 
 <!-- ## 🔥 **Cool Projects**
 
