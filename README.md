@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 **What I'm Working On**
-- 🌐 **LiteRoute** → LiteRoute supports both static and dynamic routing using hash-based URLs, dynamic parameter extraction, and template injection — all in a client-side, no-server-required architecture.
+I am not currently working on any projects
 
 ---
 
