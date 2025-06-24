@@ -15,11 +15,11 @@ I am not currently working on any projects
 ## 🛠 **Tech Stack**
 <div align="center">
    <h3>Frontend:</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=light&perline=10" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,vite&theme=light&perline=10&radius=75" />
   <h3>Backend:</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs,postgres&theme=light&perline=10" />
+  <img src="https://skills.syvixor.com/api/icons?i=nodejs,expressjs,nextjs,postgres&theme=light&perline=10&radius=75" />
   <h3>Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=apple,vscode,github,postman,npm&theme=light&perline=10" />
+  <img src="https://skills.syvixor.com/api/icons?i=macos,vscode,github,postman,npm,homebrew&theme=light&perline=10&radius=75" />
 </div>
 
 ---
@@ -29,10 +29,7 @@ I am not currently working on any projects
 <table align="center">
 <tr>
   <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/>
-  </td>
-  <td>
-<a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=insanerest&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Insanerst's GitHub Readme Streak Stats" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&count_private=true&theme=tokyonight" alt="insanerest"/>
   </td>
 <tr>
 </table>
