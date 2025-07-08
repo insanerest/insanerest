@@ -32,6 +32,9 @@ I am not currently working on any projects
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&count_private=true&theme=tokyonight" alt="insanerest"/>
   </td>
 <tr>
+     <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical" alt="insnerest"/>
+  </td>
 </table>
 
 
