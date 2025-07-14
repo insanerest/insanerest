@@ -40,6 +40,13 @@ I am not currently working on any projects
 
 ---
 
+## 📊 Waka Stats
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=insanerest&layout=compact" alt="wakatime stats">
+
+
+---
+
 
 ## 📬 Get in touch
 - 💻 GitHub: [Insanerst](https://github.com/insanerest)
