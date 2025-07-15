@@ -3,9 +3,6 @@
 🚀 Full-Stack Web Developer (Node.js • Express • PostgreSQL • React)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=insanerest)
-
-
 ---
 
 ## 🔧 Projects
@@ -17,10 +14,10 @@ Analyze GitHub repositories and summarize language usage and framework detection
 
 ## 🧰 Tech Stack
 
-| Frontend                 | Backend                  | Tools & OS                 |
-|--------------------------|--------------------------|----------------------------|
-| HTML, CSS, JS, TS, React, Vite, Next.js | Node.js, Express, PostgreSQL | macOS, GitHub, Postman, VS Code |
-
+| Frontend                          | Backend                        | Tools & OS                    |
+|----------------------------------|--------------------------------|-------------------------------|
+| HTML, CSS, JS, TS, React, Vite   | Node.js (REST APIs), Express   | macOS, GitHub, VS Code        |
+| Next.js (SSR & API routes)       | PostgreSQL (relational DB)     | Postman (API testing)         |
 ---
 
 
@@ -42,7 +39,7 @@ Analyze GitHub repositories and summarize language usage and framework detection
 ## 📬 Get in touch
 - 📫 Email: [aelwa001@hotmail.com](mailto:aelwa001@hotmail.com)
 - 💬 Discord: `insanerst`
-- 🔗 [Github](https://github.com/insanerest)
+- 🌐 [Github Profile](https://github.com/insanerest)
 
 ---
 
