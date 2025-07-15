@@ -3,12 +3,15 @@
 👋 Hey there! I'm a **full-stack web developer** who enjoys building scalable apps, experimenting with **React, Node.js, Express, and PostgreSQL**.
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Full-Stack+Web+Developer;Node.js+%7C+Express+%7C+PostgreSQL;React+%7C+Next.js+%7C+Python;Building+Clean+and+Scalable+Apps!)
+![Profile Views](https://komarev.com/ghpvc/?username=insanerest)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F97316&center=true&width=1000&lines=Full-Stack+Web+Developer;Node.js+%7C+Express+%7C+PostgreSQL;React+%7C+Vite+%7C+Next.js;Building+Cool+Apps!)
 
 ---
 
 ## 🚀 **What I'm Working On**
-I am not currently working on any projects
+I am currently working on [ghlangstats](https://github.com/insanerest/ghlangstats).
 
 ---
 
@@ -55,6 +58,8 @@ I am not currently working on any projects
 
 ---
 
+
+
 ![Thanks for visiting](https://img.shields.io/badge/Thanks_for_visiting!-f97316?style=for-the-badge&logo=github)
 
 <!-- ## 🔥 **Cool Projects**
@@ -64,3 +69,4 @@ I am not currently working on any projects
 Check out all my repos [**here**](https://github.com/insanerest?tab=repositories)! 
 
 -->
+![](https://hit.yhype.me/github/profile?account_id=157520929)
