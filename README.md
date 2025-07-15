@@ -51,6 +51,7 @@ I am not currently working on any projects
 ## 📬 Get in touch
 - 💻 GitHub: [Insanerst](https://github.com/insanerest)
 - 💬 Discord: `insanerst`
+- ✉️ Email: `aelwa001@hotmail.com`
 
 ---
 
