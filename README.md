@@ -23,7 +23,7 @@ Analyze GitHub repositories and summarize language usage and framework detection
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=tokyonight&random=123)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=tokyonight&random=183)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical)
 
