@@ -8,7 +8,7 @@
 ## 🔧 Projects
 
 🧠 **[GhLangStats](https://github.com/insanerest/ghlangstats)**  
-Analyze GitHub repositories and summarize language usage and framework detection.
+Analyze GitHub repositories and profiles and summarize language usage.
 
 ---
 
