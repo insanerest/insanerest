@@ -33,6 +33,8 @@ Analyze GitHub repositories and profiles and summarize language usage.
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=insanerest&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/6d0c0e21-5c17-43c9-8782-5a9b4529ac0b.svg)](https://wakatime.com/@6d0c0e21-5c17-43c9-8782-5a9b4529ac0b)
+
 ---
 
 
