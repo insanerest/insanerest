@@ -7,8 +7,7 @@
 
 ## 🔧 Projects
 
-🧠 **[GhLangStats](https://github.com/insanerest/ghlangstats)**  
-Analyze GitHub repositories and profiles and summarize language usage.
+I'm not working currently on any projects
 
 ---
 
@@ -23,17 +22,17 @@ Analyze GitHub repositories and profiles and summarize language usage.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=tokyonight&random=183)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=tokyonight&random=0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical&random=0)
 
 ---
 
 ## 📈 Wakatime Activity
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=insanerest&layout=compact)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=insanerest&layout=compact&random=0)
 
-[![wakatime](https://wakatime.com/badge/user/6d0c0e21-5c17-43c9-8782-5a9b4529ac0b.svg)](https://wakatime.com/@6d0c0e21-5c17-43c9-8782-5a9b4529ac0b)
+[![wakatime](https://wakatime.com/badge/user/6d0c0e21-5c17-43c9-8782-5a9b4529ac0b.svg)](https://wakatime.com/@6d0c0e21-5c17-43c9-8782-5a9b4529ac0b&random=0)
 
 ---
 
@@ -45,5 +44,5 @@ Analyze GitHub repositories and profiles and summarize language usage.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=insanerest&style=flat-square&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=insanerest&style=flat-square&color=orange&random=0)
 ![](https://hit.yhype.me/github/profile?account_id=157520929)
