@@ -1,6 +1,8 @@
 # 💻 Welcome! I am Insanerest
 
-🚀 Full-Stack Web Developer (Node.js • Express • PostgreSQL • React)
+Full-Stack Web Developer (Node.js • Express • PostgreSQL • React)
+
+I'm currently learn **C**
 
 
 ---
@@ -20,19 +22,10 @@ I'm not working currently on any projects
 ---
 
 
-## 📊 GitHub Stats
+## 📈 Hackatime Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=insanerest&show_icons=true&theme=tokyonight&random=0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insanerest&layout=compact&theme=radical&random=0)
-
----
-
-## 📈 Wakatime Activity
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=insanerest&layout=compact&random=0)
-
-[![wakatime](https://wakatime.com/badge/user/6d0c0e21-5c17-43c9-8782-5a9b4529ac0b.svg)](https://wakatime.com/@6d0c0e21-5c17-43c9-8782-5a9b4529ac0b&random=0)
+![Hakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=31847&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 ---
 
