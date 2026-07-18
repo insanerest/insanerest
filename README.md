@@ -24,7 +24,7 @@ I'm not working currently on any projects
 
 ## 📈 Hackatime Stats
 
-![Hakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=31847&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+![Hakatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=31847&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=1&langs_count=8
 )
 
 ---
