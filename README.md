@@ -24,7 +24,7 @@
 ### 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=31847&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=1&langs_count=8" alt="Hackatime Stats" />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=31847&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&hide=other&layout=compact&cache_seconds=1&langs_count=7" alt="Hackatime Stats" />
 </div>
 
 ---
