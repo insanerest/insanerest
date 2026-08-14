@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite,nodejs,express,postgres,c,git,github,vscode,postman,apple&perline=8&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,vite,nodejs,express,postgres,c,npm,pnpm,bun,docker,git,github,githubactions,bash,vscode,postman,apple&perline=11&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
